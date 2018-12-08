@@ -1,0 +1,2 @@
+# PROGRAM-MEMBUAT-BENTUK-SEGITIGA-WHILE-
+Simple Tutorial Program C++
